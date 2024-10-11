@@ -4,7 +4,7 @@ A Simple Portfolio app build with Django.
 ## Live Demo :  
 ## Running the Project Locally  
 First, clone the repository to your local machine :  
-git clone https://github.com/SowmyaJayasivakumar/My-Portfolio/.git  
+git clone github.com/SowmyaJayasivakumar/My-Portfolio/.git 
 ## Create a virtual environment :  
 $ python -m venv .venv  
 ## Activate the virtual environment on Windows :   
